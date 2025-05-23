@@ -1,12 +1,65 @@
-# React + Vite
+Modern Todo List Application
+🚀 Overview
+A sleek and modern Todo List application built with React, featuring a futuristic UI design with glass morphism effects and smooth animations.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Features
+Add new tasks dynamically
+Delete unwanted tasks
+Reorder tasks using up/down controls
+Responsive design for all devices
+Modern glass morphism UI
+Smooth animations and transitions
+Dark mode interface
+🛠️ Technologies Used
+React 18
+CSS3 with custom properties
+Modern JavaScript (ES6+)
+Vite as build tool
+📦 Installation
+# Clone the repository
+git clone https://github.com/yourusername/modern-todo-app.git
 
-Currently, two official plugins are available:
+# Navigate to project directory
+cd modern-todo-app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Install dependencies
+npm install
 
-## Expanding the ESLint configuration
+# Start development server
+npm run dev
+# Clone the repository
+git clone https://github.com/yourusername/modern-todo-app.git
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Navigate to project directory
+cd modern-todo-app
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+:root {
+  --primary: #2a2a72;
+  --secondary: #009ffd;
+  --accent: #00d4ff;
+  --background: #13131f;
+  --text: #ffffff;
+}
+📱 Responsive Design
+Optimized for mobile devices
+Adaptive layout for tablets
+Full desktop support
+🤝 Contributing
+Fork the repository
+Create your feature branch (git checkout -b feature/AmazingFeature)
+Commit your changes (git commit -m 'Add some AmazingFeature')
+Push to the branch (git push origin feature/AmazingFeature)
+Open a Pull Request
+📄 License
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
+👤 Author
+Your Name
+
+GitHub: @xlordx-bit
+LinkedIn: Pranjal Agarwal
