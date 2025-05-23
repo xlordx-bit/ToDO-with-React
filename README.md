@@ -16,9 +16,6 @@ CSS3 with custom properties
 Modern JavaScript (ES6+)
 Vite as build tool
 📦 Installation
-# Clone the repository
-git clone https://github.com/yourusername/modern-todo-app.git
-
 # Navigate to project directory
 cd modern-todo-app
 
